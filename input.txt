@@ -1,0 +1,11 @@
+30 thirty
+20 twenty
+10 ten
+40 forty
+58 fifty-eight
+47 forty-seven
+50 fifty
+29 twenty-nine
+22 twenty-two
+56 fifty-six
+98 ninety-nine

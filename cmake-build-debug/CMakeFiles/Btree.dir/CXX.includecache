@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Xia/Desktop/data_structure/Btree/BTree.cpp
+BTree.h
+C:/Users/Xia/Desktop/data_structure/Btree/BTree.h
+string.h
+-
+iostream
+C:/Users/Xia/Desktop/data_structure/Btree/iostream
+assert.h
+-
+
+C:/Users/Xia/Desktop/data_structure/Btree/BTree.h
+
